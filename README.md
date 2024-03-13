@@ -1,4 +1,4 @@
-# Adobe Quarterly Revenue Prediction Model
+# Regression Project on Adobe Inc's Quarterly Revenue
 
 ## Project Overview
 
